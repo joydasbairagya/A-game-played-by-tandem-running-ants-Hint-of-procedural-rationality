@@ -1,0 +1,8 @@
+Type_of_Leader Decision Required_time Position Velocity
+R N 2.80 0.05 0.00 
+R N 2.44 9.14 19.04 
+R N 5.64 12.36 56.16 
+R N 2.66 8.35 6.84 
+R N 1.90 3.18 5.48 
+R N 4.22 2.27 5.16 
+R N 5.24 3.75 5.85 
